@@ -2,7 +2,10 @@
     <string name="app_name">About Me</string>
     <string name="name">Eslam Ehab</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="preview_icon">Previe icon</string>
 
-    <string name="bio">Greetings users, \n\n Welcome to my application. \n\nMy name is Eslam Ehab Elsayed.\nI am 24 years old.\n\nI am a German University in Cairo ( GUC ) graduate.\n\nI hold a bachelor\'s degree in computer engineering. \n\nThroughout my educational journey I have developed several android, windows, and web applications. \n\n\nOkay so let me repeat myself one more time.. \n\n\n My name is Eslam Ehab Elsayed.\nI am 24 years old.\n\nI am a German University in Cairo ( GUC ) graduate.\n\nI hold a bachelor\'s degree in computer engineering. \n\nThroughout my educational journey I have developed several android, windows, and web applications.
+    <string name="bio">Greetings users, \n\nWelcome to my application. \n\nMy name is Eslam Ehab Elsayed.\nI am 24 years old.\n\nI am a German University in Cairo ( GUC ) graduate.\n\nI hold a bachelor\'s degree in computer engineering. \n\nThroughout my educational journey I have developed several android, windows, and web applications. \n\n\nOkay so let me repeat myself one more time.. \n\n\n My name is Eslam Ehab Elsayed.\nI am 24 years old.\n\nI am a German University in Cairo ( GUC ) graduate.\n\nI hold a bachelor\'s degree in computer engineering. \n\nThroughout my educational journey I have developed several android, windows, and web applications.
     </string>
+    <string name="what_is_your_nickname">What is your nickname ?</string>
+    <string name="done">Done</string>
 </resources>
